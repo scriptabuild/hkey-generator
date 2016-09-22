@@ -1,0 +1,26 @@
+{
+  "name": "hkey-generator",
+  "version": "0.0.1",
+  "description": "Utility to create hierarchical (or nested) id structures",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node tests/tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scriptabuild/hkey-generator.git"
+  },
+  "keywords": [
+    "hierarchy",
+    "hkey"
+  ],
+  "author": "Arjan Einbu <arjan@einbu.no>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scriptabuild/hkey-generator/issues"
+  },
+  "homepage": "https://github.com/scriptabuild/hkey-generator#readme"
+}
