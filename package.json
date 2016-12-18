@@ -1,6 +1,6 @@
 {
   "name": "hkey-generator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Utility to create hierarchical (or nested) id structures",
   "main": "index.js",
   "directories": {
